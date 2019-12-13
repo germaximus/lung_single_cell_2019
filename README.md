@@ -3,7 +3,7 @@
 
 **Prerequisites:**  
 [Cell Ranger 3.1](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest)  
-[Loupe Cell Browser 3.1](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest)
+[Loupe Cell Browser 3.1](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest)  
 [Pre-made mouse genome reference 3.0](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest)  
 [Seurat R package 3.0](https://satijalab.org/seurat/v3.0)  
 
